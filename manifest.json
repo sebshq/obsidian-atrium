@@ -1,0 +1,11 @@
+{
+	"id": "atrium",
+	"name": "Atrium",
+	"version": "0.1.0",
+	"minAppVersion": "1.7.2",
+	"description": "A homepage workspace built around your daily note.",
+	"author": "Sebastien",
+	"authorUrl": "https://github.com/sebshq",
+	"fundingUrl": "https://buy.polar.sh/polar_cl_y0kZRpPkmgPvNxV0jekPBHkZdU4a5oBNyric248vSAY",
+	"isDesktopOnly": false
+}
