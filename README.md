@@ -17,7 +17,7 @@ In Obsidian: **Settings → Community plugins → Browse**, search for **Atrium*
 
 ## Atrium Complete
 
-Atrium is free. **Atrium Complete** adds Music, Podcasts, Recorder, Terminal, Web page, Focus, Time machine, Habits and video backgrounds: try it free for 30 days, then $14.99 once, on up to three devices. [More](https://atrium-md.com/atrium-complete).
+Atrium is free. **Atrium Complete** add a growing list of special modules and video backgrounds: try it free for 30 days, then $14.99 once. [More](https://atrium-md.com/atrium-complete).
 
 ## Network use
 
