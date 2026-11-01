@@ -1,5 +1,7 @@
 # Atrium™ for Obsidian
 
+![Atrium: the daily note, agenda, calendar, weather, music and more as cards on one page](https://raw.githubusercontent.com/sebshq/obsidian-atrium/main/assets/atrium.gif)
+
 A homepage and primary workspace for Obsidian, built around your daily note. Atrium for Obsidian brings Atrium™ to your vault.
 
 - The day's daily note, editable in place, with previous/next/today navigation.
