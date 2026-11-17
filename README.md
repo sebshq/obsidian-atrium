@@ -4,9 +4,29 @@
 
 ### **[Learn more at atrium-md.com →](https://atrium-md.com)**
 
+## Install
+
+1. In Obsidian, open **Settings → Community plugins**. If Restricted mode is on, turn it off.
+2. Select **Browse**, search for **Atrium**, then select **Install** and **Enable**.
+3. Select the house icon in the ribbon, or run **Atrium: Open** from the command palette.
+
+The first time Atrium opens, a short tutorial walks you through a sample page. Run **Atrium: Open tutorial** to see it again. To make Atrium your home page, turn on **Open on startup** in **Settings → Atrium**.
+
+## Getting started
+
+- **A page of cards.** Atrium shows your day as cards that fill the page as tiles. Each card is a module, such as your daily note, your tasks or a clock.
+- **Add a card.** Click a dotted line between cards, or pick out a card and press <kbd>⇧A</kbd>, then an arrow for the side it goes on.
+- **Arrange them.** Drag a card by its header to move it, and drag its edges to resize it. Right-click a card, a header or the page for everything you can do there.
+- **Keys.** Press <kbd>?</kbd> to see the shortcuts for where you are. Every action is also a command in the command palette.
+- **Workspaces.** A workspace is a page with its own cards and background. Point at the workspace's name at the top right to show the others, then click one to switch to it, or **+** to make a new one.
+- **Your notes stay notes.** Atrium reads what it shows from your notes and writes changes back to them, in formats other plugins read too.
+- **Atrium Complete.** Cards marked ● below need a license. Start a 30-day trial from **Settings → Atrium**.
+
+Each module's page in the [guide](https://atrium-md.com) explains its settings and keys.
+
 ## Modules
 
-Each card on an Atrium page is a module. Add one from **Add module**: click a dotted line between cards, or press <kbd>⇧A</kbd> then an arrow. What a card shows comes from your notes, and what it changes goes back into them.
+Atrium has 21 modules. Each name links to its page in the guide.
 
 <table>
 <tr>
@@ -46,7 +66,7 @@ Each card on an Atrium page is a module. Add one from **Add module**: click a do
 </tr>
 </table>
 
-Modules marked ● are part of [Atrium Complete](https://atrium-md.com/atrium-complete). Each name links to its page in the guide.
+Modules marked ● are part of [Atrium Complete](https://atrium-md.com/atrium-complete).
 
 ## Programs Atrium runs
 
