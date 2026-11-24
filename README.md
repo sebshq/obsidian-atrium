@@ -61,7 +61,7 @@ Atrium has 21 modules. Each name links to its page in the guide.
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="https://atrium-md.com/time-machine"><img src="https://raw.githubusercontent.com/sebshq/obsidian-atrium/main/assets/modules/time-machine.jpg" alt="The Time machine card"></a><br><b><a href="https://atrium-md.com/time-machine">Time machine</a></b> ●<br>What you wrote a year ago today.</td>
-<td width="33%" valign="top"><a href="https://atrium-md.com/habits"><img src="https://raw.githubusercontent.com/sebshq/obsidian-atrium/main/assets/modules/habits.jpg" alt="The Habits card"></a><br><b><a href="https://atrium-md.com/habits">Habits</a></b> ●<br>Little streaks, kept in your notes.</td>
+<td width="33%" valign="top"><a href="https://atrium-md.com/habits"><img src="https://raw.githubusercontent.com/sebshq/obsidian-atrium/main/assets/modules/habits.jpg" alt="The Trends card"></a><br><b><a href="https://atrium-md.com/habits">Trends</a></b> ●<br>Streaks and measures, kept in your notes.</td>
 <td width="33%" valign="top"><a href="https://atrium-md.com/memorize"><img src="https://raw.githubusercontent.com/sebshq/obsidian-atrium/main/assets/modules/memorize.jpg" alt="The Memorize card"></a><br><b><a href="https://atrium-md.com/memorize">Memorize</a></b> ●<br>Passages learned by heart, on a schedule.</td>
 </tr>
 </table>
